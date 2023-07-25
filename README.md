@@ -2,7 +2,7 @@
 
 I'm a software engineer student who has an enthusiasm for AI 🔥
 
-I'm also interested in web developemnt 💻
+I'm also interested in web developemnt 💻 
 
 In my spare time, I enjoy leaning new languages, watching movies, cycling and swimming. 🚴
 
