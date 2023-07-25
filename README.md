@@ -1,4 +1,4 @@
-#### Hi, I'm An 🐉
+#### Hi, I'm An 🌠
 
 I'm a software engineer student who has an enthusiasm for AI 🔥
 
