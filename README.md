@@ -1,4 +1,4 @@
-#### Hola, yo soy An 😎 
+### Hola! Yo soy An 😎 
 
 I'm a software engineer student who has an enthusiasm for AI 🔥
 
