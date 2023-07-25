@@ -1,6 +1,4 @@
-### Hola 📣 :)) 
-
-Yo soy An. Mucho gusto! 
+👋 Hola, Yo soy An. Mucho gusto! 
 
 I'm a software engineer student who has an enthusiasm for AI 🔥
 
