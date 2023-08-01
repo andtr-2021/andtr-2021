@@ -1,4 +1,4 @@
-👋 HOLA! I AM AN!
+HOLA! MUCHO GUSTO! 😄
 
 I'm a software engineer student who has an enthusiasm for AI 🔥
 
