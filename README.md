@@ -1,6 +1,4 @@
-HELLO!
-
-I am An. 
+Hello! I am An. 
 
 I'm a software engineer student who has an enthusiasm for AI 🔥
 
