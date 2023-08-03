@@ -1,6 +1,6 @@
 Hello! I am An. 
 
-I'm a software engineer student who has an enthusiasm for AI 🔥
+I'm a software engineer student with an enthusiasm for AI 🔥
 
 I'm also interested in web developemnt 💻 
 
