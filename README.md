@@ -1,9 +1,9 @@
 
 `ML Applications`
 
-[`Tomatos Classification:`](https://huggingface.co/spaces/andtr-2021/ripe-tomato-or-unrip-tomato?logs=container) {:target="_blank"}
+[`Tomatos Classification:`](https://huggingface.co/spaces/andtr-2021/ripe-tomato-or-unrip-tomato?logs=container) 
 > - **Description:** This is a binary classification app. It will take an image of tomatos and determines wherether the tomatos is ripe or unripe.
 > - **Library:** fast.ai for the model and streamlit for the app.
-
+<a href="https://huggingface.co/spaces/andtr-2021/ripe-tomato-or-unrip-tomato?logs=container" target="_blank"> `Tomatos Classification:` <a>
 
 
