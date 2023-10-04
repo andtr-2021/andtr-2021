@@ -1,5 +1,5 @@
 
-`ML Applications`
+**`ML Applications`**
 
 [`Tomatos Classification:`](https://ripe-or-unripe-tomatos-classification.streamlit.app/) 
 > - **Description:** This is a binary classification app. It will take an image of tomatos and determines wherether the tomatos is ripe or unripe.
