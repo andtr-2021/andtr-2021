@@ -11,3 +11,5 @@
 [`- Automation for Data Preparation:`](https://huggingface.co/spaces/andtr-2021/automation-for-data-preparation)
 > - **Description:** This app will automate data preparation to make it easier to handled by different ML librarie such as Pytorch. 
 > - **Library:** sklearn and opencv.
+
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
