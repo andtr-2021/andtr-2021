@@ -11,3 +11,5 @@
 [`- Automation for Data Preparation:`](https://huggingface.co/spaces/andtr-2021/automation-for-data-preparation)
 > - **Description:** This app will automate data preparation to make it easier to handled by different ML librarie such as Pytorch. 
 > - **Library:** sklearn and opencv.
+
+![An's GitHub stats](https://github-readme-stats.vercel.app/api?username=andtr-2021&show_icons=true&theme=transparent)
