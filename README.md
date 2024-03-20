@@ -12,5 +12,5 @@
 > - **Description:** This app will automate data preparation to make it easier to handled by different ML librarie such as Pytorch. 
 > - **Library:** sklearn and opencv.
 
-![An's GitHub stats](https://github-readme-stats.vercel.app/api?username=andtr-2021&show_icons=true&theme=transparent)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andtr-2021&layout=compact)
 
+![An's GitHub stats](https://github-readme-stats.vercel.app/api?username=andtr-2021&show_icons=true&theme=transparent)   
